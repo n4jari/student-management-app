@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/student-management-app/static/css/main.1a04a7f7.css",
+    "main.js": "/student-management-app/static/js/main.2e0e2423.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/student-management-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Virgula-Vulgaris.eot": "/student-management-app/static/media/Virgula-Vulgaris.120b405473414ce1cfcb.eot",
+    "static/media/Virgula-Vulgaris.ttf": "/student-management-app/static/media/Virgula-Vulgaris.1b711169b1000ca5fe82.ttf",
+    "static/media/fontawesome-webfont.eot": "/student-management-app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/student-management-app/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Virgula-Vulgaris.woff": "/student-management-app/static/media/Virgula-Vulgaris.1f6ad99213a3cbb46b46.woff",
+    "static/media/Virgula-Vulgaris.woff2": "/student-management-app/static/media/Virgula-Vulgaris.bc15959bf4e54f6a6a3c.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/student-management-app/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/student-management-app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/student-management-app/index.html",
+    "main.1a04a7f7.css.map": "/student-management-app/static/css/main.1a04a7f7.css.map",
+    "main.2e0e2423.js.map": "/student-management-app/static/js/main.2e0e2423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a04a7f7.css",
+    "static/js/main.2e0e2423.js"
+  ]
+}
